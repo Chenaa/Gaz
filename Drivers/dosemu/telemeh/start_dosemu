@@ -1,0 +1,4 @@
+#!/bin/bash
+consolechars -f /home/telemeh/.dosemu/drive_c/DOKS-GAZ/font/font8x16.fnt
+dosemu -D +g
+mv /home/telemeh/.dosemu/boot.log  /home/telemeh/dosemu.log

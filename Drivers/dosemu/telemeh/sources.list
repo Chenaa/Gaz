@@ -1,0 +1,14 @@
+# 
+# deb cdrom:[Debian GNU/Linux 5.0.10 _Lenny_ - Official i386 xfce+lxde-CD Binary-1 20120310-13:07]/ lenny main
+
+#deb cdrom:[Debian GNU/Linux 5.0.10 _Lenny_ - Official i386 xfce+lxde-CD Binary-1 20120310-13:07]/ lenny main
+
+# Line commented out by installer because it failed to verify:
+#deb http://security.debian.org/ lenny/updates main
+# Line commented out by installer because it failed to verify:
+#deb-src http://security.debian.org/ lenny/updates main
+
+# Line commented out by installer because it failed to verify:
+deb http://archive.debian.org/debian lenny main contrib non-free
+# Line commented out by installer because it failed to verify:
+#deb-src http://volatile.debian.org/debian-volatile lenny/volatile main
