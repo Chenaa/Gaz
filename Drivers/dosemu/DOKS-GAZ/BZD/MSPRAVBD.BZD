@@ -1,0 +1,35 @@
+        1  1.Наличие ТС
+        1  2.Наличие ТИ
+        0  3.Наличие ТУ
+        0  4.Наличие ТР
+        1  5.Наличие ТИИ
+        0  6.MAX адр.ТС УВТК
+        0  7.MAX адр.ТИ УВТК
+        0  8.
+        0  9.Кол-во 2-х б ТИИ
+        0  10.Кол-во 3-х б ТИИ
+        0  11.Наличие 2-х б ТИИ
+        0  12.Наличие 3-х б ТИИ
+        0  13.dlftyo tu.txt не УВТК
+        0  14.dlfdi  czz.txt
+       16  15.dlfti  ti.txt    УВТК
+        8  16.adlf   ti.txt не УВТК
+        8  17.dlftc  tc.txt    УВТК
+       24  18.dlftco tc.txt не УВТК
+        0  19.dlfty  tu.txt
+        0  20.dlftp  tr.txt
+        4  21.dlftii tiiz.txt
+       16  22.dcl[1] texhname1.txt
+       87  23.dcl[2] texhname2.txt
+       16  24.dcl[3] texhname3.txt
+        1  25.pycto[1] проб. нач.сл
+        2  26.pycto[2] проб. нач.сл
+        2  27.pycto[3] проб. нач.сл
+       32  28.MAX адр.ТС
+       24  29.MAX адр.ТИ
+        0  ПО РПУ Докшицырайгаз
+        0  0
+        0  32.Наличие ТС PVM
+        0  33.Наличие ТИ PVM
+        0  34.dlftcout tcoutz.txt
+        0  35.dlftiout tioutz.txt
