@@ -16,4 +16,18 @@ class Currency extends AppModel{
 		'value' => '',
 		'base' => '',
 	];
+
+	public $rules = [
+		'required' => [
+			['title'],
+			['code'],
+			['value'],
+
+		],
+		'numeric' => [
+			['value'],
+
+		],
+	];
 }
+
